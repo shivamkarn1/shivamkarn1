@@ -1,4 +1,4 @@
-## Hi there 👋 I am Undergraduate Student of Purwanchal Campus. I am studying Bachelors. I like coding.
+## Hi there 👋 I am Undergraduate Student of Institute of Engineering, Purwanchal Campus. I am studying Bachelors. I like coding.
 
 
 
