@@ -1,76 +1,334 @@
-<h1>Hi 👋, I'm Shivam Karn</h1>
-<p>A passionate frontend developer from Nepal.</p>
+# 🌟 SHIVAM KARN - Frontend Visionary 🌟
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://reactjs.org/" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://tailwindcss.com/" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://nodejs.org/" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.mongodb.com/" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://www.postman.com/" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://git-scm.com/" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-  </a>
-</p>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=8A2BE2&background=00000000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+I'm+Shivam+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;From+Beautiful+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+Digital+Dreams+%E2%9C%A8)
 
-<h2>📌 Most Used Technologies</h2>
-<p>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://reactjs.org/" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://tailwindcss.com/" style="display: inline-block;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" />
-  </a>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" />
-  </a>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
-<h2>⚡️ Where to find me</h2>
-<p>
-  <a target="_blank" href="https://www.instagram.com/shivam.karn.67" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Instagram-%23F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  </a>
-</p>
+</div>
 
-<h2>📊 GitHub Stats</h2>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam67&show_icons=true&locale=en" alt="Shivam67" />
-</p>
+---
+
+## 💻 **Quick Stats**
+
+<div align="center">
+
+```typescript
+const shivam: Developer = {
+  name: "Shivam Karn",
+  location: "🇳🇵 Nepal",
+  role: "Frontend Visionary",
+  experience: "Problem Solver",
+  focus: "Real-World Apps",
+  
+  stats: {
+    leetcode: "24+ solved (94.1%)",
+    projects: "3 live apps",
+    expertise: "React + Algorithms"
+  },
+  
+  currentStatus: "Building 🚀"
+};
+```
+
+### 📊 **Profile Analytics**
+![Profile Views](https://komarev.com/ghpvc/?username=Shivam67Code&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Shivam67Code?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/Shivam67Code?label=Stars&style=for-the-badge&color=yellow)
+
+### 🌟 **Achievement Highlights**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Problem Solving Master**
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50"> **Live Project Creator**
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"> **Frontend Specialist**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+
+</div>
+
+---
+
+## 🎭 **About Me - The Digital Architect**
+
+<div align="center">
+
+<table border="0" width="100%">
+<tr>
+<td width="60%" align="left" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="25"> **Shivam Karn** - Frontend Visionary from the beautiful mountains of Nepal 🏔️
+
+I'm a passionate **Problem Solver** and **Digital Creator** who transforms ideas into interactive web experiences. With **24+ LeetCode problems** solved at **94.1% accuracy** and **3 live projects** deployed, I bridge the gap between algorithmic thinking and user-centric design.
+
+### ⚡ **Fun Facts**
+- 🌟 **Superpower:** Turning coffee into code and ideas into products
+- 🎮 **Motto:** Dream → Code → Deploy → Repeat 🔄
+- 🧠 **Specialty:** Making complex algorithms look simple
+- 🚀 **Goal:** Creating digital experiences that make people say "WOW!"
+
+</td>
+<td width="40%" align="center" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 **GitHub Analytics - Data Tells the Story**
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivam67Code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,000428,004e92"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam67Code&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0,000428,004e92"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam67Code&custom_title=Shivam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00b4ff&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+</div>
+
+---
+
+## 📊 **Detailed Analytics - Contribution Insights**
+
+<div align="center">
+
+### 📈 **Contribution Summary**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam67Code&theme=algolia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam67Code&theme=algolia&utcOffset=5.75" />
+
+### 🔥 **Language Distribution**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam67Code&theme=algolia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam67Code&theme=algolia" />
+
+### 📊 **Profile Details**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam67Code&theme=algolia" />
+
+</div>
+
+---
+
+## 🚀 **Featured Projects - Digital Masterpieces**
+
+<div align="center">
+
+### 💼 **Live Projects Portfolio**
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 💰 **ShivTracks - Expense Tracker**
+[![ShivTracks](https://img.shields.io/badge/🔗_Live_Demo-ShivTracks-4CAF50?style=for-the-badge&logo=netlify)](https://shivtracks.netlify.app/login)
+
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
+
+**🌟 Features:**
+- 💳 Smart expense tracking
+- 📊 Real-time analytics
+- 🔐 Secure authentication
+- 📱 Responsive design
+- 💎 Modern UI/UX
+
+</td>
+<td width="50%" align="center">
+
+### ✅ **Shivam Todo - Task Manager**
+[![Todo App](https://img.shields.io/badge/🔗_Live_Demo-Todo_App-2196F3?style=for-the-badge&logo=vercel)](https://shivamtodo.vercel.app/)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+
+**🌟 Features:**
+- ✨ Interactive task management
+- 🎯 Priority-based organization
+- 🔄 Real-time updates
+- 💾 Local storage integration
+- 🎨 Beautiful animations
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 🔐 **Shivam's Vault - Password Manager**
+[![Password Manager](https://img.shields.io/badge/🔗_Live_Demo-Password_Vault-FF5722?style=for-the-badge&logo=netlify)](https://shivamsvault.netlify.app/)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+
+**🌟 Features:**
+- 🛡️ Secure password storage
+- 🔑 Password generation
+- 🔒 Advanced encryption
+- 👤 User authentication
+- 📱 Cross-platform access
+
+</td>
+<td width="50%" align="center">
+
+### 🚀 **More Projects Coming Soon...**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
+
+**🔥 What's Next:**
+- 🌟 AI-powered applications
+- 🎮 Interactive web games
+- 📊 Data visualization tools
+- 🤖 Automation solutions
+
+</td>
+</tr>
+</table>
+
+### 🏆 **Project Tech Stack**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,netlify,vercel&theme=dark" />
+</div>
+
+</div>
+
+---
+
+## 🧠 **LeetCode Journey - Problem Solving Master**
+
+<div align="center">
+
+### 🏆 **Coding Achievement Stats**
+
+<table>
+<tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<br><b>Problems Solved</b>
+<br><span style="font-size: 2em; color: #4CAF50; font-weight: bold;">24+</span>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7429d0.gif" width="100">
+<br><b>Success Rate</b>
+<br><span style="font-size: 2em; color: #2196F3; font-weight: bold;">94.1%</span>
+</td>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<br><b>Acceptance Rate</b>
+<br><span style="font-size: 2em; color: #FF9800; font-weight: bold;">35.5%</span>
+</td>
+</tr>
+</table>
+
+### 📈 **Problem Categories Mastered**
+```
+🟢 Easy Problems      ████████████████████░  11 solved
+🟡 Medium Problems    ████████████████████░  12 solved  
+🔴 Hard Problems      ████░░░░░░░░░░░░░░░░░   1 solved
+```
+
+### 🎯 **LeetCode Specialty Areas**
+- 🔗 **Linked Lists** - Expert level problem solving
+- 🌊 **Two Pointers** - Advanced algorithmic techniques  
+- 🔄 **Dynamic Programming** - Complex optimization problems
+- 📊 **Array Manipulation** - Efficient data structure operations
+- 🧮 **Mathematical Algorithms** - Number theory and calculations
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+
+</div>
+
+---
+
+## 🛠️ **My Arsenal - Technologies & Tools**
+
+<div align="center">
+
+### 💻 **Programming Languages**
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c&theme=dark" />
+
+### 🎨 **Frontend Technologies**
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
+
+### 🔧 **Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode,postman&theme=dark" />
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7429d0.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
+---
+
+## 🎯 **Skills Showcase - Level Up Stats**
+
+<div align="center">
+
+```text
+🚀 Frontend Development  ██████████████████████   95%
+💻 JavaScript/TypeScript ███████████████████░░░   90%
+⚛️  React Development   ██████████████████████   95%
+🧠 Problem Solving      ██████████████████████   94%
+🔧 Git & Version Control ██████████████████░░░░   85%
+🌐 Full Stack Projects  ███████████████████░░░   88%
+```
+
+### 🎖️ **Coding Achievements**
+- 🏆 **24+ LeetCode Problems** solved with 94.1% accuracy
+- 🎯 **Expert in Linked Lists** and advanced data structures
+- 🔥 **3 Live Projects** deployed and running
+- ⚡ **Real-world Applications** built from scratch
+- 🌟 **Modern Tech Stack** mastery
+
+</div>
+
+---
+
+## 📱 **Connect With Me - Let's Build Together**
+
+<div align="center">
+
+### 🌐 **Social Universe**
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivam.karn.67)
+
+<a href="https://www.instagram.com/shivam.karn.67" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="80" alt="Instagram" />
+</a>
+
+</div>
+
+---
+
+## 💌 **Thank You Message**
+
+<div align="center">
+
+### 🙏 **Thanks for Visiting!**
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400">
+
+**If you found something interesting, don't forget to:**
+- ⭐ Star my repositories
+- 👥 Follow me for more amazing content
+- 💬 Let's connect and build something awesome together!
+
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
+  
+  **Made with ❤️ by Shivam Karn**
+  
+  ![Bottom](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+</div>
