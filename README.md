@@ -74,6 +74,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam67&show_icons=true&locale=en" alt="Shivam67" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam67" alt="Shivam67" />
-</p>
