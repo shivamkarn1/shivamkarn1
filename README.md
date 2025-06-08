@@ -208,15 +208,10 @@ I'm a passionate **Problem Solver** and **Digital Creator** who transforms ideas
 <br><b>Problems Solved</b>
 <br><span style="font-size: 2em; color: #4CAF50; font-weight: bold;">24+</span>
 </td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7429d0.gif" width="100">
-<br><b>Success Rate</b>
-<br><span style="font-size: 2em; color: #2196F3; font-weight: bold;">94.1%</span>
-</td>
-<td align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 <br><b>Acceptance Rate</b>
-<br><span style="font-size: 2em; color: #FF9800; font-weight: bold;">35.5%</span>
+<br><span style="font-size: 2em; color: #FF9800; font-weight: bold;">94.1%</span>
 </td>
 </tr>
 </table>
