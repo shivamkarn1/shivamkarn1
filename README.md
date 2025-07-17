@@ -63,10 +63,10 @@ const shivam: Developer = {
 I'm a passionate **Problem Solver** and **Digital Creator** who transforms ideas into interactive web experiences. With **24+ LeetCode problems** solved at **94.1% accuracy** and **3 live projects** deployed, I bridge the gap between algorithmic thinking and user-centric design.
 
 ### ⚡ **Fun Facts**
-- 🌟 **Superpower:** Turning coffee into code and ideas into products
-- 🎮 **Motto:** Dream → Code → Deploy → Repeat 🔄
-- 🧠 **Specialty:** Making complex algorithms look simple
-- 🚀 **Goal:** Creating digital experiences that make people say "WOW!"
+-  **Superpower:** Turning coffee into code and ideas into products
+-  **Motto:** Dream → Code → Deploy → Repeat 🔄
+-  **Specialty:** Making complex algorithms look simple
+- **Goal:** Creating digital experiences that make people say "WOW!"
 
 </td>
 <td width="40%" align="center" valign="top">
