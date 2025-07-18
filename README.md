@@ -24,95 +24,14 @@ const shivam: Developer = {
   
   stats: {
     leetcode: "24+ solved (94.1%)",
-    projects: "3 live apps",
+    projects: "3 live apps(WebSites)",
     expertise: "React + Algorithms"
   },
   
   currentStatus: "Building 🚀"
 };
+
 ```
-
-### 📊 **Profile Analytics**
-![Profile Views](https://komarev.com/ghpvc/?username=Shivam67Code&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Shivam67Code?label=Followers&style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/Shivam67Code?label=Stars&style=for-the-badge&color=yellow)
-
-### 🌟 **Achievement Highlights**
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Problem Solving Master**
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50"> **Live Project Creator**
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"> **Frontend Specialist**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
-
-</div>
-
----
-
-## 🎭 **About Me - The Digital Architect**
-
-<div align="center">
-
-<table border="0" width="100%">
-<tr>
-<td width="60%" align="left" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="25"> **Shivam Karn** - Frontend Visionary from the beautiful mountains of Nepal 🏔️
-
-I'm a passionate **Problem Solver** and **Digital Creator** who transforms ideas into interactive web experiences. With **24+ LeetCode problems** solved at **94.1% accuracy** and **3 live projects** deployed, I bridge the gap between algorithmic thinking and user-centric design.
-
-### ⚡ **Fun Facts**
--  **Superpower:** Turning coffee into code and ideas into products
--  **Motto:** Dream → Code → Deploy → Repeat 🔄
--  **Specialty:** Making complex algorithms look simple
-- **Goal:** Creating digital experiences that make people say "WOW!"
-
-</td>
-<td width="40%" align="center" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 **GitHub Analytics - Data Tells the Story**
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivam67Code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,000428,004e92"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam67Code&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0,000428,004e92"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam67Code&custom_title=Shivam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00b4ff&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" />
-</div>
-
----
-
-## 📊 **Detailed Analytics - Contribution Insights**
-
-<div align="center">
-
-### 📈 **Contribution Summary**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam67Code&theme=algolia" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam67Code&theme=algolia&utcOffset=5.75" />
-
-### 🔥 **Language Distribution**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam67Code&theme=algolia" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam67Code&theme=algolia" />
-
-### 📊 **Profile Details**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam67Code&theme=algolia" />
-
-</div>
-
 ---
 
 ## 🚀 **Featured Projects - Digital Masterpieces**
@@ -195,6 +114,38 @@ I'm a passionate **Problem Solver** and **Digital Creator** who transforms ideas
 
 ---
 
+### 📊 **Profile Analytics**
+![Profile Views](https://komarev.com/ghpvc/?username=Shivam67Code&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Shivam67Code?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/Shivam67Code?label=Stars&style=for-the-badge&color=yellow)
+
+### 🌟 **Achievement Highlights**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Problem Solving Master**
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50"> **Live Project Creator**
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"> **Frontend Specialist**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+
+</div>
+
+
+## 📊 **GitHub Analytics - Data Tells the Story**
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivam67Code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,000428,004e92"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam67Code&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0,000428,004e92"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam67Code&custom_title=Shivam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00b4ff&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+</div>
+
+---
+
 ## 🧠 **LeetCode Journey - Problem Solving Master**
 
 <div align="center">
@@ -235,6 +186,27 @@ I'm a passionate **Problem Solver** and **Digital Creator** who transforms ideas
 </div>
 
 ---
+
+## 📊 **Detailed Analytics - Contribution Insights**
+
+<div align="center">
+
+### 📈 **Contribution Summary**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam67Code&theme=algolia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam67Code&theme=algolia&utcOffset=5.75" />
+
+### 🔥 **Language Distribution**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam67Code&theme=algolia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam67Code&theme=algolia" />
+
+### 📊 **Profile Details**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam67Code&theme=algolia" />
+
+</div>
+
+
+
+
 
 ## 🛠️ **My Arsenal - Technologies & Tools**
 
