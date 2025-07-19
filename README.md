@@ -34,7 +34,7 @@ const shivam: Developer = {
 ```
 ---
 
-## 🚀 **Featured Projects - Digital Masterpieces**
+## Projects Made By Me -- Made for Enhancing Ditigal Experience**
 
 <div align="center">
 
