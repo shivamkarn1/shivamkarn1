@@ -119,6 +119,22 @@ const shivam: Developer = {
 ![GitHub followers](https://img.shields.io/github/followers/Shivam67Code?label=Followers&style=for-the-badge&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/Shivam67Code?label=Stars&style=for-the-badge&color=yellow)
 
+## 📊 **Detailed Analytics - Contribution Insights**
+
+<div align="center">
+
+### 📈 **Contribution Summary**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam67Code&theme=algolia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam67Code&theme=algolia&utcOffset=5.75" />
+
+### 🔥 **Language Distribution**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam67Code&theme=algolia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam67Code&theme=algolia" />
+
+### 📊 **Profile Details**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam67Code&theme=algolia" />
+
+</div>
 ### 🌟 **Achievement Highlights**
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Problem Solving Master**
 <br>
@@ -187,22 +203,6 @@ const shivam: Developer = {
 
 ---
 
-## 📊 **Detailed Analytics - Contribution Insights**
-
-<div align="center">
-
-### 📈 **Contribution Summary**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam67Code&theme=algolia" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam67Code&theme=algolia&utcOffset=5.75" />
-
-### 🔥 **Language Distribution**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam67Code&theme=algolia" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam67Code&theme=algolia" />
-
-### 📊 **Profile Details**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam67Code&theme=algolia" />
-
-</div>
 
 
 
