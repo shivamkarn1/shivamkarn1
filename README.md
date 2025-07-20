@@ -189,14 +189,6 @@ const shivam: Developer = {
 🟡 Medium Problems    ████████████████████░  12 solved  
 🔴 Hard Problems      ████░░░░░░░░░░░░░░░░░   1 solved
 ```
-
-### 🎯 **LeetCode Specialty Areas**
-- 🔗 **Linked Lists** - Expert level problem solving
-- 🌊 **Two Pointers** - Advanced algorithmic techniques  
-- 🔄 **Dynamic Programming** - Complex optimization problems
-- 📊 **Array Manipulation** - Efficient data structure operations
-- 🧮 **Mathematical Algorithms** - Number theory and calculations
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 
 </div>
