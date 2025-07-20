@@ -124,7 +124,7 @@ const shivam: Developer = {
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50"> **Live Project Creator**
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"> **Frontend Specialist**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"> **Frontend Lover**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 
@@ -146,7 +146,7 @@ const shivam: Developer = {
 
 ---
 
-## 🧠 **LeetCode Journey - Problem Solving Master**
+##  **LeetCode Journey - Problem Solving Master**
 
 <div align="center">
 
@@ -231,31 +231,6 @@ const shivam: Developer = {
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
----
-
-## 🎯 **Skills Showcase - Level Up Stats**
-
-<div align="center">
-
-```text
-🚀 Frontend Development  ██████████████████████   95%
-💻 JavaScript/TypeScript ███████████████████░░░   90%
-⚛️  React Development   ██████████████████████   95%
-🧠 Problem Solving      ██████████████████████   94%
-🔧 Git & Version Control ██████████████████░░░░   85%
-🌐 Full Stack Projects  ███████████████████░░░   88%
-```
-
-### 🎖️ **Coding Achievements**
-- 🏆 **24+ LeetCode Problems** solved with 94.1% accuracy
-- 🎯 **Expert in Linked Lists** and advanced data structures
-- 🔥 **3 Live Projects** deployed and running
-- ⚡ **Real-world Applications** built from scratch
-- 🌟 **Modern Tech Stack** mastery
-
-</div>
-
----
 
 ## 📱 **Connect With Me - Let's Build Together**
 
