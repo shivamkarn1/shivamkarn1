@@ -1,4 +1,4 @@
-# 🌟 SHIVAM KARN - Frontend Visionary 🌟
+# 🌱SHIVAM KARN - Full Stack Visionary (MERN)🌿 
 
 <div align="center">
   
