@@ -125,46 +125,9 @@ const shivam: Developer = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam67Code&theme=algolia" />
 
 </div>
-### 🌟 **Achievement Highlights**
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> **Problem Solving Master**
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50"> **Live Project Creator**
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50"> **Frontend Lover**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
-
 </div>
 
 
-## 📊 **GitHub Analytics - Data Tells the Story**
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivam67Code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,000428,004e92"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam67Code&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0,000428,004e92"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam67Code&custom_title=Shivam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00b4ff&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" />
-</div>
-
----
-
-##  **LeetCode Journey - Problem Solving Master**
-
-<div align="center">
-
-### 📈 **Problem Categories Mastered**
-```
-🟢 Easy Problems      ████████████████████░  11 solved
-🟡 Medium Problems    ████████████████████░  12 solved  
-🔴 Hard Problems      ████░░░░░░░░░░░░░░░░░   1 solved
-```
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
-
-</div>
 
 ---
 
