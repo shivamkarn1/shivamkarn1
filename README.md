@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=8A2BE2&background=00000000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+I'm+Shivam+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;From+Beautiful+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+Digital+Dreams+%E2%9C%A8)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=8A2BE2&background=00000000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+I'm+Shivam+%F0%9F%91%8B;Full Stack Developer(MERN)+%F0%9F%9A%80;From+Beautiful+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+Digital+Dreams+%E2%9C%A8)
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 
@@ -18,14 +18,14 @@
 const shivam: Developer = {
   name: "Shivam Karn",
   location: "🇳🇵 Nepal",
-  role: "Frontend Visionary",
+  role: "Full Stack Visionary (MERN)",
   experience: "Problem Solver",
   focus: "Real-World Apps",
   
   stats: {
     leetcode: "24+ solved (94.1%)",
     projects: "3 live apps(WebSites)",
-    expertise: "React + Algorithms"
+    expertise: "MERN + Algorithms"
   },
   
   currentStatus: "Building 🚀"
@@ -96,10 +96,10 @@ const shivam: Developer = {
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
 
 **🔥 What's Next:**
-- 🌟 AI-powered applications
-- 🎮 Interactive web games
+- AI-powered applications
+- Interactive web games
 - 📊 Data visualization tools
-- 🤖 Automation solutions
+- Automation solutions
 
 </td>
 </tr>
@@ -165,23 +165,6 @@ const shivam: Developer = {
 ##  **LeetCode Journey - Problem Solving Master**
 
 <div align="center">
-
-### 🏆 **Coding Achievement Stats**
-
-<table>
-<tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<br><b>Problems Solved</b>
-<br><span style="font-size: 2em; color: #4CAF50; font-weight: bold;">24+</span>
-</td>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<br><b>Acceptance Rate</b>
-<br><span style="font-size: 2em; color: #FF9800; font-weight: bold;">94.1%</span>
-</td>
-</tr>
-</table>
 
 ### 📈 **Problem Categories Mastered**
 ```
