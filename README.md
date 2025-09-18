@@ -2,17 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=8A2BE2&background=00000000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+I'm+Shivam+%F0%9F%91%8B;Full Stack Developer(MERN)+%F0%9F%9A%80;From+Beautiful+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+Digital+Dreams+%E2%9C%A8)
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-
-</div>
-
----
-
-## 💻 **Quick Stats**
-
-<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=45&duration=2500&pause=800&color=003399&background=00000000&center=true&vCenter=true&width=950&height=130&lines=Hello+World!+I'm+Shivam👋🏻;☘️Full+Stack+Developer+(MERN🌿))
 
 ```typescript
 const shivam: Developer = {
