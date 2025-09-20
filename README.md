@@ -94,11 +94,6 @@ const shivam: Developer = {
 </tr>
 </table>
 
-### 🏆 **Project Tech Stack**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,netlify,vercel&theme=dark" />
-</div>
-
 </div>
 
 ---
