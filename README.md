@@ -7,7 +7,7 @@
 const shivam: Developer = {
   name: "Shivam Karn",
   location: "🇳🇵 Nepal",
-  role: "Full Stack Visionary (MERN)",
+  role: "Full Stack Developer(MERN)",
   experience: "Problem Solver",
   focus: "Real-World Apps",
   
