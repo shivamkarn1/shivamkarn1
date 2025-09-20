@@ -2,8 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=45&duration=2500&pause=800&color=003399&background=ccffcc&center=true&vCenter=true&width=950&height=130&lines=Hello+World!+I'm+Shivam👋🏻;☘️Full+Stack+Developer+(MERN🌿))
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1200&color=FFFFFF&background=0D5016&center=true&vCenter=true&width=950&height=130&lines=Hello+World!+I'm+Shivam+👋;☘️Full+Stack+Developer+(MERN🌿);)
 ```typescript
 const shivam: Developer = {
   name: "Shivam Karn",
