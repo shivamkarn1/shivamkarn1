@@ -1,4 +1,4 @@
-# 🌱SHIVAM KARN - Full Stack Visionary (MERN)🌿 
+# 🌱SHIVAM KARN - Full Stack Developer (MERN)🌿 
 
 <div align="center">
   
@@ -66,7 +66,7 @@ const shivam: Developer = {
 <td width="50%" align="center">
 
 ### 🔐 **Shivam's Vault - Password Manager**
-[![Password Manager](https://img.shields.io/badge/🔗_Live_Demo-Password_Vault-FF5722?style=for-the-badge&logo=netlify)](https://shivamsvault.netlify.app/)
+[![Password Manager](https://img.shields.io/badge/🔗_Live_Demo-Password_Vault-FF5722?style=for-the-badge&logo=netlify)](https://passwordmanager-mu.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
