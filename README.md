@@ -8,16 +8,25 @@ const shivam: Developer = {
   name: "Shivam Karn",
   location: "🇳🇵 Nepal",
   role: "Full Stack Developer(MERN)",
-  experience: "Problem Solver",
-  focus: "Real-World Apps",
+  experience: "Problem Solver & Code Enthusiast",
+  focus: "Building Real-World Solutions",
+  
+  projects: {
+    expenseTracker: "ShivTracks 💰",
+    taskManager: "Shivam Todo ✅",
+    passwordVault: "Secure Password Manager 🔐",
+    bloggingPlatform: "Content Publishing Site 📝",
+    codeEditor: "HTML Writer - Live Editor ✍️"
+  },
   
   stats: {
     leetcode: "24+ solved (94.1%)",
-    projects: "3 live apps(WebSites)",
-    expertise: "MERN + Algorithms"
+    liveApps: 5,
+    techStack: "MERN + Algorithms",
+    focus: "User Experience & Security"
   },
   
-  currentStatus: "Building 🚀"
+  currentStatus: "Building & Innovating 🚀"
 };
 
 ```
@@ -80,9 +89,41 @@ const shivam: Developer = {
 </td>
 <td width="50%" align="center">
 
+### 📝 **Blogging Site - Content Platform**
+[![Blogging Site](https://img.shields.io/badge/🔗_Live_Demo-Blogging_Site-9C27B0?style=for-the-badge&logo=vercel)](https://blogging-site-jade.vercel.app/)
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
+
+**🌟 Features:**
+- 📖 Rich content creation
+- 👥 User engagement
+- 🎨 Modern blog interface
+- 📱 Responsive design
+- 🔍 Easy navigation
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### ✍️ **HTML Writer - Mini HTMLCSS Code Editor**
+[![HTML Writer](https://img.shields.io/badge/🔗_Live_Demo-HTML_Writer-00BCD4?style=for-the-badge&logo=netlify)](https://htmlwritter.netlify.app/)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="300">
+
+**🌟 Features:**
+- 💻 Live HTML editor
+- 🎯 Real-time preview
+- 🎨 Code syntax highlighting
+- 💾 Save functionality
+- 🚀 Fast & lightweight
+
+</td>
+<td width="50%" align="center">
+
 ### 🚀 **More Projects Coming Soon...**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-244b7747-3b88-41e6-b58a-d3e69afd47d7.gif" width="300">
 
 **🔥 What's Next:**
 - AI-powered applications
@@ -161,9 +202,13 @@ const shivam: Developer = {
 ### 🌐 **Social Universe**
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivam.karn.67)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamkarn1/)
 
 <a href="https://www.instagram.com/shivam.karn.67" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="80" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/shivamkarn1/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="80" alt="LinkedIn" />
 </a>
 
 </div>
