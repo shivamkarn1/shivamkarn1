@@ -13,10 +13,10 @@ const shivam: Developer = {
   
   projects: {
     expenseTracker: "ShivTracks 💰",
-    taskManager: "Shivam Todo ✅",
+    taskManager: "Shivam Todo ",
     passwordVault: "Secure Password Manager 🔐",
-    bloggingPlatform: "Content Publishing Site 📝",
-    codeEditor: "HTML Writer - Live Editor ✍️"
+    bloggingPlatform: "Content Publishing Site ",
+    codeEditor: "HTML Writer - Live Editor "
   },
   
   stats: {
