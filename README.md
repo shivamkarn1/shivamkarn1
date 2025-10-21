@@ -4,7 +4,7 @@
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1200&color=FFFFFF&background=0D5016&center=true&vCenter=true&width=950&height=130&lines=Hello+World!+I'm+Shivam+👋;☘️Full+Stack+Developer+(MERN🌿);)
 ```typescript
-const shivam: Developer = {
+const Shivam: Developer = {
   name: "Shivam Karn",
   location: "🇳🇵 Nepal",
   role: "Full Stack Developer(MERN)",
