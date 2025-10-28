@@ -149,15 +149,15 @@ const Shivam: Developer = {
 <div align="center">
 
 ### 📈 **Contribution Summary**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam67Code&theme=algolia" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam67Code&theme=algolia&utcOffset=5.75" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamkarn1&theme=algolia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivamkarn1&theme=algolia&utcOffset=5.75" />
 
 ### 🔥 **Language Distribution**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam67Code&theme=algolia" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam67Code&theme=algolia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamkarn1&theme=algolia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivamkarn1&theme=algolia" />
 
 ### 📊 **Profile Details**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam67Code&theme=algolia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamkarn1&theme=algolia" />
 
 </div>
 </div>
