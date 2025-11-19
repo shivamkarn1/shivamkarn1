@@ -140,9 +140,9 @@ const Shivam: Developer = {
 ---
 
 ### 📊 **Profile Analytics**
-![Profile Views](https://komarev.com/ghpvc/?username=Shivam67Code&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Shivam67Code?label=Followers&style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/Shivam67Code?label=Stars&style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=shivamkarn1&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/shivamkarn1?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/shivamkarn1?label=Stars&style=for-the-badge&color=yellow)
 
 ## 📊 **Detailed Analytics - Contribution Insights**
 
@@ -176,13 +176,11 @@ const Shivam: Developer = {
 <div align="center">
 
 ### 💻 **Programming Languages**
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,c&theme=dark" />
 
-### 🎨 **Frontend Technologies**
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
 
 ### 🔧 **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,git,react,github,vscode,postman&theme=dark" />
 
 </div>
 
@@ -194,26 +192,6 @@ const Shivam: Developer = {
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
-
-## 📱 **Connect With Me - Let's Build Together**
-
-<div align="center">
-
-### 🌐 **Social Universe**
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivam.karn.67)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamkarn1/)
-
-<a href="https://www.instagram.com/shivam.karn.67" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="80" alt="Instagram" />
-</a>
-<a href="https://www.linkedin.com/in/shivamkarn1/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="80" alt="LinkedIn" />
-</a>
-
-</div>
-
----
 
 ## 💌 **Thank You Message**
 
@@ -235,8 +213,6 @@ const Shivam: Developer = {
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
-  
-  **Made with ❤️ by Shivam Karn**
   
   ![Bottom](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
