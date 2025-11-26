@@ -1,136 +1,188 @@
-# 🌱SHIVAM KARN - Full Stack Developer (MERN)🌿 
-
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1200&color=FFFFFF&background=0D5016&center=true&vCenter=true&width=950&height=130&lines=Hello+World!+I'm+Shivam+👋;☘️Full+Stack+Developer+(MERN🌿);)
-```typescript
-const Shivam: Developer = {
-  name: "Shivam Karn",
-  location: "🇳🇵 Nepal",
-  role: "Full Stack Developer(MERN)",
-  experience: "Problem Solver & Code Enthusiast",
-  focus: "Building Real-World Solutions",
-  
-  projects: {
-    expenseTracker: "ShivTracks 💰",
-    taskManager: "Shivam Todo ",
-    passwordVault: "Secure Password Manager 🔐",
-    bloggingPlatform: "Content Publishing Site ",
-    codeEditor: "HTML Writer - Live Editor "
-  },
-  
-  stats: {
-    leetcode: "24+ solved (94.1%)",
-    liveApps: 5,
-    techStack: "MERN + Algorithms",
-    focus: "User Experience & Security"
-  },
-  
-  currentStatus: "Building & Innovating 🚀"
-};
 
+#  SHIVAM KARN
+
+```diff
+@@                                              @@
++   ██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗   
++   ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗  
++   ██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║  
++   ██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║  
++   ██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝  
++   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝   
++            ██████╗ ███████╗██╗   ██╗
++            ██╔══██╗██╔════╝██║   ██║
++            ██║  ██║█████╗  ██║   ██║
++            ██║  ██║██╔══╝  ╚██╗ ██╔╝
++            ██████╔╝███████╗ ╚████╔╝ 
++            ╚═════╝ ╚══════╝  ╚═══╝  
+@@                                              @@
 ```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3EC710&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Backend+Developer+%7C+System+Architect;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Building+High-Performance+Scalable+Systems" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shivam-karn.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamkarn1/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShivamKarnn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamkarn767@gmail.com)
+
+</div>
+
 ---
 
-## ⚛️Projects Made By Me -- Made for Enhancing Ditigal Experience**
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-
-### 💼 **Live Projects Portfolio**
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### 💰 **ShivTracks - Expense Tracker**
-[![ShivTracks](https://img.shields.io/badge/🔗_Live_Demo-ShivTracks-4CAF50?style=for-the-badge&logo=netlify)](https://shivtracks.netlify.app/login)
+### 📈 Contribution Stats
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamkarn1&show_icons=true&theme=dark&title_color=3ec710&icon_color=3ec710&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=3ec710&include_all_commits=true&count_private=true)
 
-**🌟 Features:**
-- 💳 Smart expense tracking
-- 📊 Real-time analytics
-- 🔐 Secure authentication
-- 📱 Responsive design
-- 💎 Modern UI/UX
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamkarn1&theme=dark&hide_border=false&border=3ec710&background=0d1117&ring=3ec710&fire=3ec710&currStreakLabel=3ec710&stroke=3ec710)
 
 </td>
 <td width="50%" align="center">
 
-### ✅ **Shivam Todo - Task Manager**
-[![Todo App](https://img.shields.io/badge/🔗_Live_Demo-Todo_App-2196F3?style=for-the-badge&logo=vercel)](https://shivamtodo.vercel.app/)
+### 🏆 Achievement Showcase
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+![Trophies](https://github-profile-trophy.vercel.app/?username=shivamkarn1&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=3)
 
-**🌟 Features:**
-- ✨ Interactive task management
-- 🎯 Priority-based organization
-- 🔄 Real-time updates
-- 💾 Local storage integration
-- 🎨 Beautiful animations
+### 💻 Code Distribution
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkarn1&layout=compact&theme=dark&title_color=3ec710&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=3ec710&langs_count=6)
 
 </td>
 </tr>
+</table>
+
+### 📉 Detailed Contribution Metrics
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamkarn1&bg_color=0d1117&color=3ec710&line=3ec710&point=ffffff&area=true&hide_border=false&border_color=3ec710&custom_title=Contribution%20Activity%20Graph)
+
+### 📊 Repository Analytics
+
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamkarn1&theme=dark)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivamkarn1&theme=dark)
+
+### 📈 Comprehensive Profile Summary
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamkarn1&theme=dark)
+
+</div>
+
+---
+
+## 🛠️ Technology Arsenal
+
+<div align="center">
+
+### Core Backend Stack
+
+<table>
 <tr>
-<td width="50%" align="center">
-
-### 🔐 **Shivam's Vault - Password Manager**
-[![Password Manager](https://img.shields.io/badge/🔗_Live_Demo-Password_Vault-FF5722?style=for-the-badge&logo=netlify)](https://passwordmanager-mu.vercel.app/)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-**🌟 Features:**
-- 🛡️ Secure password storage
-- 🔑 Password generation
-- 🔒 Advanced encryption
-- 👤 User authentication
-- 📱 Cross-platform access
-
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+<br><strong>TypeScript</strong>
 </td>
-<td width="50%" align="center">
-
-### 📝 **Blogging Site - Content Platform**
-[![Blogging Site](https://img.shields.io/badge/🔗_Live_Demo-Blogging_Site-9C27B0?style=for-the-badge&logo=vercel)](https://blogging-site-jade.vercel.app/)
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
-
-**🌟 Features:**
-- 📖 Rich content creation
-- 👥 User engagement
-- 🎨 Modern blog interface
-- 📱 Responsive design
-- 🔍 Easy navigation
-
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+<br><strong>Express</strong>
 </td>
 </tr>
+</table>
+
+### Database & ORM Layer
+
+<table>
 <tr>
-<td width="50%" align="center">
-
-### ✍️ **HTML Writer - Mini HTMLCSS Code Editor**
-[![HTML Writer](https://img.shields.io/badge/🔗_Live_Demo-HTML_Writer-00BCD4?style=for-the-badge&logo=netlify)](https://htmlwritter.netlify.app/)
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="300">
-
-**🌟 Features:**
-- 💻 Live HTML editor
-- 🎯 Real-time preview
-- 🎨 Code syntax highlighting
-- 💾 Save functionality
-- 🚀 Fast & lightweight
-
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+<br><sub>NoSQL Database</sub>
 </td>
-<td width="50%" align="center">
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+<br><sub>Relational DB</sub>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" width="48" height="48" alt="Prisma" />
+<br><strong>Prisma ORM</strong>
+<br><sub>Type-Safe ORM</sub>
+</td>
+<td align="center" width="120">
+<img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="48" height="48" alt="Drizzle" />
+<br><strong>Drizzle ORM</strong>
+<br><sub>Lightweight ORM</sub>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+<br><strong>Redis</strong>
+<br><sub>Caching Layer</sub>
+</td>
+</tr>
+</table>
 
-### 🚀 **More Projects Coming Soon...**
+### DevOps & Infrastructure
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-244b7747-3b88-41e6-b58a-d3e69afd47d7.gif" width="300">
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+<br><strong>Docker</strong>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+<br><strong>GitHub</strong>
+</td>
+</tr>
+</table>
 
-**🔥 What's Next:**
-- AI-powered applications
-- Interactive web games
-- 📊 Data visualization tools
-- Automation solutions
+### Development Environment
 
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://cdn.worldvectorlogo.com/logos/archlinux.svg" width="48" height="48" alt="Arch Linux" />
+<br><strong>Arch Linux</strong>
+<br><sub>Primary OS</sub>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+<br><strong>VS Code</strong>
+<br><sub>Primary Editor</sub>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim" />
+<br><strong>Neovim</strong>
+<br><sub>Secondary Editor</sub>
+</td>
+<td align="center" width="140">
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48" alt="Postman" />
+<br><strong>Postman</strong>
+<br><sub>API Testing</sub>
+</td>
+<td align="center" width="140">
+<img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="48" height="48" alt="Terminal" />
+<br><strong>Ghostty</strong>
+<br><sub>Terminal</sub>
 </td>
 </tr>
 </table>
@@ -139,81 +191,116 @@ const Shivam: Developer = {
 
 ---
 
-### 📊 **Profile Analytics**
-![Profile Views](https://komarev.com/ghpvc/?username=shivamkarn1&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/shivamkarn1?label=Followers&style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/shivamkarn1?label=Stars&style=for-the-badge&color=yellow)
-
-## 📊 **Detailed Analytics - Contribution Insights**
+## 💡 Core Knowledge
 
 <div align="center">
 
-### 📈 **Contribution Summary**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivamkarn1&theme=algolia" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivamkarn1&theme=algolia&utcOffset=5.75" />
-
-### 🔥 **Language Distribution**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamkarn1&theme=algolia" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivamkarn1&theme=algolia" />
-
-### 📊 **Profile Details**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamkarn1&theme=algolia" />
+```mermaid
+mindmap
+  root((Backend<br/>Development))
+    API Design
+      RESTful APIs
+      WebSocket
+    Database Architecture
+      Schema Design
+      Query Optimization
+    Performance
+      Caching Strategies
+      Database Tuning
+      Code Optimization
+    Security
+      Authentication
+      Authorization
+      Data Encryption
+      API Security
+```
 
 </div>
-</div>
 
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
+### 🎯 API Architecture
+- RESTful Design Patterns
+- WebSocket Real-time
+- Microservices Architecture
+- API Versioning & Documentation
+
+</td>
+<td align="center" width="25%">
+
+### 🗄️ Database Engineering
+- Relational DB Design
+- NoSQL Data Modeling
+- Query Optimization
+- Replication & Sharding
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ Performance Optimization
+- Caching Mechanisms
+- Database Tuning
+- Memory Management
+- Horizontal Scaling
+
+</td>
+<td align="center" width="25%">
+
+### 🔒 Security & Best Practices
+- JWT Authentication
+- Role-Based Access Control
+- Data Encryption
+- Input Validation
+- Security Auditing
+
+</td>
+</tr>
+</table>
 
 ---
 
-
-
-
-
-
-## 🛠️ **My Arsenal - Technologies & Tools**
+## 📈 Performance Metrics
 
 <div align="center">
 
-### 💻 **Programming Languages**
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,c&theme=dark" />
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Code_Quality-A+-3ec710?style=for-the-badge&logo=codacy&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Test_Coverage-95%25-3ec710?style=for-the-badge&logo=jest&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Performance-Optimized-3ec710?style=for-the-badge&logo=speedtest&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Security-A+-3ec710?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</td>
+</tr>
+</table>
 
-
-### 🔧 **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgresql,git,react,github,vscode,postman&theme=dark" />
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7429d0.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
-
-
-## 💌 **Thank You Message**
-
-<div align="center">
-
-### 🙏 **Thanks for Visiting!**
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400">
-
-**If you found something interesting, don't forget to:**
-- ⭐ Star my repositories
-- 👥 Follow me for more amazing content
-- 💬 Let's connect and build something awesome together!
+![Profile Views](https://komarev.com/ghpvc/?username=shivamkarn1&label=Profile%20Views&color=3ec710&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/shivamkarn1?label=Followers&style=for-the-badge&color=3ec710)
+![Total Stars](https://img.shields.io/github/stars/shivamkarn1?label=Total%20Stars&style=for-the-badge&color=3ec710)
 
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
-  
-  ![Bottom](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+
+**Open to collaborating on backend projects, system design discussions, and open-source contributions!**
+
+[![Portfolio](https://img.shields.io/badge/💼_Portfolio-000000?style=for-the-badge)](https://shivam-karn.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivamkarn1/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/ShivamKarnn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:shivamkarn767@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3ec710&height=120&section=footer" />
 
 </div>
