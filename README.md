@@ -181,7 +181,7 @@
 </td>
 <td align="center" width="140">
 <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="48" height="48" alt="Terminal" />
-<br><strong>Ghostty</strong>
+<br><strong>Ghostty & Tmux </strong>
 <br><sub>Terminal</sub>
 </td>
 </tr>
@@ -221,74 +221,7 @@ mindmap
 <tr>
 <td align="center" width="25%">
 
-### 🎯 API Architecture
-- RESTful Design Patterns
-- WebSocket Real-time
-- Microservices Architecture
-- API Versioning & Documentation
-
-</td>
-<td align="center" width="25%">
-
-### 🗄️ Database Engineering
-- Relational DB Design
-- NoSQL Data Modeling
-- Query Optimization
-- Replication & Sharding
-
-</td>
-<td align="center" width="25%">
-
-### ⚡ Performance Optimization
-- Caching Mechanisms
-- Database Tuning
-- Memory Management
-- Horizontal Scaling
-
-</td>
-<td align="center" width="25%">
-
-### 🔒 Security & Best Practices
-- JWT Authentication
-- Role-Based Access Control
-- Data Encryption
-- Input Validation
-- Security Auditing
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Performance Metrics
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Code_Quality-A+-3ec710?style=for-the-badge&logo=codacy&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Test_Coverage-95%25-3ec710?style=for-the-badge&logo=jest&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Performance-Optimized-3ec710?style=for-the-badge&logo=speedtest&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Security-A+-3ec710?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-</td>
-</tr>
-</table>
-
-![Profile Views](https://komarev.com/ghpvc/?username=shivamkarn1&label=Profile%20Views&color=3ec710&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/shivamkarn1?label=Followers&style=for-the-badge&color=3ec710)
-![Total Stars](https://img.shields.io/github/stars/shivamkarn1?label=Total%20Stars&style=for-the-badge&color=3ec710)
-
-</div>
-
----
+#
 
 ## 🤝 Let's Connect
 
