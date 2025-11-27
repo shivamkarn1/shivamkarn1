@@ -1,25 +1,8 @@
 <div align="center">
 
-#  SHIVAM KARN
-
-```diff
-@@                                              @@
-+   ██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗   
-+   ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗  
-+   ██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║  
-+   ██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║  
-+   ██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝  
-+   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝   
-+            ██████╗ ███████╗██╗   ██╗
-+            ██╔══██╗██╔════╝██║   ██║
-+            ██║  ██║█████╗  ██║   ██║
-+            ██║  ██║██╔══╝  ╚██╗ ██╔╝
-+            ██████╔╝███████╗ ╚████╔╝ 
-+            ╚═════╝ ╚══════╝  ╚═══╝  
-@@                                              @@
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3EC710&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Backend+Developer+%7C+System+Architect;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL+%E2%80%A2+MongoDB;Building+High-Performance+Scalable+Systems" alt="Typing SVG" />
+**Backend Developer | System Architect**  
+**Node.js • TypeScript • PostgreSQL • MongoDB**  
+**Building High-Performance Scalable Systems**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shivam-karn.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamkarn1/)
@@ -30,49 +13,8 @@
 
 ---
 
-## 📊 GitHub Analytics Dashboard
-
 <div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 📈 Contribution Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamkarn1&show_icons=true&theme=dark&title_color=3ec710&icon_color=3ec710&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=3ec710&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamkarn1&theme=dark&hide_border=false&border=3ec710&background=0d1117&ring=3ec710&fire=3ec710&currStreakLabel=3ec710&stroke=3ec710)
-
-</td>
-<td width="50%" align="center">
-
-### 🏆 Achievement Showcase
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=shivamkarn1&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=3)
-
-### 💻 Code Distribution
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkarn1&layout=compact&theme=dark&title_color=3ec710&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=3ec710&langs_count=6)
-
-</td>
-</tr>
-</table>
-
-### 📉 Detailed Contribution Metrics
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamkarn1&bg_color=0d1117&color=3ec710&line=3ec710&point=ffffff&area=true&hide_border=false&border_color=3ec710&custom_title=Contribution%20Activity%20Graph)
-
-### 📊 Repository Analytics
-
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamkarn1&theme=dark)
-
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivamkarn1&theme=dark)
-
-### 📈 Comprehensive Profile Summary
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamkarn1&theme=dark)
-
+  <img src="https://raw.githubusercontent.com/shivamkarn1/shivamkarn1/main/profile-3d-contrib/profile-night-green.svg" width="90%">
 </div>
 
 ---
@@ -160,8 +102,8 @@
 <table>
 <tr>
 <td align="center" width="140">
-<img src="https://cdn.worldvectorlogo.com/logos/archlinux.svg" width="48" height="48" alt="Arch Linux" />
-<br><strong>Arch Linux</strong>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+<br><strong>Linux</strong>
 <br><sub>Primary OS</sub>
 </td>
 <td align="center" width="140">
@@ -181,7 +123,7 @@
 </td>
 <td align="center" width="140">
 <img src="https://www.svgrepo.com/show/353478/bash-icon.svg" width="48" height="48" alt="Terminal" />
-<br><strong>Ghostty & Tmux </strong>
+<br><strong>Ghostty & Tmux</strong>
 <br><sub>Terminal</sub>
 </td>
 </tr>
@@ -221,7 +163,131 @@ mindmap
 <tr>
 <td align="center" width="25%">
 
-#
+### 🎯 API Architecture
+- RESTful Design Patterns
+- WebSocket Real-time
+- Microservices Architecture
+- API Versioning & Documentation
+
+</td>
+<td align="center" width="25%">
+
+### 🗄️ Database Engineering
+- Relational DB Design
+- NoSQL Data Modeling
+- Query Optimization
+- Replication & Sharding
+
+</td>
+<td align="center" width="25%">
+
+### ⚡ Performance Optimization
+- Caching Mechanisms
+- Database Tuning
+- Memory Management
+- Horizontal Scaling
+
+</td>
+<td align="center" width="25%">
+
+### 🔒 Security & Best Practices
+- JWT Authentication
+- Role-Based Access Control
+- Data Encryption
+- Input Validation
+- Security Auditing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 📈 Contribution Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamkarn1&show_icons=true&theme=radical&title_color=3ec710&icon_color=3ec710&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkarn1&theme=radical&background=0d1117&ring=3ec710&fire=3ec710&currStreakLabel=3ec710&hide_border=true"/>
+</p>
+
+</td>
+<td width="50%" align="center">
+
+### 🏆 Achievement Showcase
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivamkarn1&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4&title=MultiLanguage,Commits,Repositories,Stars"/>
+</p>
+
+### 💻 Code Distribution
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkarn1&layout=compact&theme=radical&title_color=3ec710&text_color=ffffff&bg_color=0d1117&langs_count=8&hide_border=true"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+### 📉 Detailed Contribution Metrics
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkarn1&theme=react-dark&bg_color=0d1117&color=3ec710&line=3ec710&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+### 📊 Repository Analytics
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamkarn1&theme=github_dark"/>
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivamkarn1&theme=github_dark"/>
+</p>
+
+### 📈 Comprehensive Profile Summary
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamkarn1&theme=github_dark"/>
+</p>
+
+</div>
+
+---
+
+## 📈 Performance Metrics
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Code_Quality-A+-3ec710?style=for-the-badge&logo=codacy&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Test_Coverage-95%25-3ec710?style=for-the-badge&logo=jest&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Performance-Optimized-3ec710?style=for-the-badge&logo=speedtest&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Security-A+-3ec710?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+</td>
+</tr>
+</table>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shivamkarn1&label=Profile%20Views&color=3ec710&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/shivamkarn1?label=Followers&style=for-the-badge&color=3ec710)
+![Total Stars](https://img.shields.io/github/stars/shivamkarn1?label=Total%20Stars&style=for-the-badge&color=3ec710)
+
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
