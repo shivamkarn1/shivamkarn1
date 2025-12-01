@@ -187,7 +187,7 @@ mindmap
 ### 💻 Code Distribution
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkarn1&layout=compact&theme=radical&title_color=3ec710&text_color=ffffff&bg_color=0d1117&langs_count=8&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkarn1&layout=compact&theme=radical&title_color=3ec710&text_color=ffffff&bg_color=0d1117&langs_count=8&hide_border=true&cache_seconds=1800&include_all_commits=true&exclude_repo=shivamkarn1"/>
 </p>
 
 </td>
