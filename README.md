@@ -14,6 +14,16 @@
 ---
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShivamKarna&label=Profile%20Views&color=3ec710&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ShivamKarna?label=Followers&style=for-the-badge&color=3ec710)
+![Total Stars](https://img.shields.io/github/stars/ShivamKarna?label=Total%20Stars&style=for-the-badge&color=3ec710)
+
+</div>
+
+---
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/ShivamKarna/ShivamKarna/main/profile-3d-contrib/profile-night-green.svg" width="90%">
 </div>
 
@@ -22,7 +32,7 @@
 ## 🛠️ Technology Arsenal
 
 <div align="center">
-
+f
 ### Core Backend Stack
 
 <table>
@@ -166,7 +176,7 @@ mindmap
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="100%" align="center">
 
 ### 📈 Contribution Stats
 
@@ -176,30 +186,8 @@ mindmap
 </p>
 
 </td>
-<td width="50%" align="center">
-
-### 🏆 Achievement Showcase
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShivamKarna&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4&title=MultiLanguage,Commits,Repositories,Stars"/>
-</p>
-
-### 💻 Code Distribution
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKarna&layout=compact&theme=radical&title_color=3ec710&text_color=ffffff&bg_color=0d1117&langs_count=8&hide_border=true&cache_seconds=1800&include_all_commits=true&exclude_repo=ShivamKarna"/>
-</p>
-
-</td>
 </tr>
 </table>
-
-### 📉 Detailed Contribution Metrics
-
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamKarna&theme=react-dark&bg_color=0d1117&color=3ec710&line=3ec710&point=ffffff&area=true&hide_border=true"/>
-</p>
-
 ### 📊 Repository Analytics
 
 <p align="center">
@@ -216,30 +204,3 @@ mindmap
 </div>
 
 ---
-
-## 📈 Performance Metrics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ShivamKarna&label=Profile%20Views&color=3ec710&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ShivamKarna?label=Followers&style=for-the-badge&color=3ec710)
-![Total Stars](https://img.shields.io/github/stars/ShivamKarna?label=Total%20Stars&style=for-the-badge&color=3ec710)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**Open to collaborating on backend projects, system design discussions, and open-source contributions!**
-
-[![Portfolio](https://img.shields.io/badge/💼_Portfolio-000000?style=for-the-badge)](https://shivam-karn.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ShivamKarna/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/ShivamKarnn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:shivamkarn767@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3ec710&height=120&section=footer" />
-
-</div>
