@@ -32,8 +32,8 @@
 ## 🛠️ Technology Arsenal
 
 <div align="center">
-f
-### Core Backend Stack
+
+## Core Backend Stack
 
 <table>
 <tr>
