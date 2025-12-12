@@ -178,17 +178,11 @@ mindmap
 <tr>
 <td width="100%" align="center">
 
-### 📈 Contribution Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamKarna&show_icons=true&theme=radical&title_color=3ec710&icon_color=3ec710&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamKarna&theme=radical&background=0d1117&ring=3ec710&fire=3ec710&currStreakLabel=3ec710&hide_border=true"/>
-</p>
-
 </td>
 </tr>
 </table>
-### 📊 Repository Analytics
+
+## 📊  Repository Analytics
 
 <p align="center">
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivamKarna&theme=github_dark"/>
